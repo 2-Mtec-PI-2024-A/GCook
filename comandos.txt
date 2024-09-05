@@ -18,6 +18,7 @@ Criando e executando migrações:
 
     Criar uma migração:
         dotnet ef migrations add criarBanco
+    
     Aplicar a migração:
         dotnet ef database update
 
